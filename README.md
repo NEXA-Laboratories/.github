@@ -37,7 +37,9 @@ It’s an **experiment in how science and creativity can co-exist**.
 ## Join the discussion
 
 Contribute ideas, discuss experiments, or propose new ones on our Discord.
-👉 Join the Lab
+
+👉 [Join the Lab](https://discord.gg/AQXVHsXmEe)
+
 🧑‍🔬 Contributing
 
 We welcome developers, designers, researchers, and dreamers.
