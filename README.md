@@ -12,9 +12,10 @@ Think of it as a virtual lab — open to anyone who wants to experiment, build, 
 ## 🌍 Mission
 
 To create an **open ecosystem for innovation**, where people from around the world can:
-- 🧩 Prototype bold ideas in AI, robotics, and digital design  
-- 🔬 Conduct experiments in automation and simulation  
-- 🎨 Explore new forms of human–machine collaboration  
+
+- 🧩 Prototype bold ideas in AI, robotics, and digital design
+- 🔬 Conduct experiments in automation and simulation
+- 🎨 Explore new forms of human–machine collaboration
 - 🌐 Build the future through open knowledge and shared imagination  
 
 NEXA is not just a project.  
