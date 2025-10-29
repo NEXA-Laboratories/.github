@@ -34,7 +34,7 @@ It’s an **experiment in how science and creativity can co-exist**.
 
 ---
 
-3. Join the discussion
+## Join the discussion
 
 Contribute ideas, discuss experiments, or propose new ones on our Discord.
 👉 Join the Lab
@@ -42,16 +42,16 @@ Contribute ideas, discuss experiments, or propose new ones on our Discord.
 
 We welcome developers, designers, researchers, and dreamers.
 
-🧭 Roadmap
+## 🧭 Roadmap
 Phase	Goal	Status
-Phase 1	Foundation (Brand, Website, Server)	✅ Done
-Phase 2	First AI Project (“NEXA Mind”)	🧪 In progress
-Phase 3	Community Expansion	🚧 Planned
+Phase 1	Foundation (Brand, Website, Server)    ✅ Done
+Phase 2	First AI Project    🧪 In progress
+Phase 3	Community Expansion    🚧 Planned
 Phase 4	NEXA Platform (Online collaboration hub)	🛰️ Concept
 
 ---
 
-🧩 Team Roles
+## 🧩 Team Roles
 Role	Description
 👑 Founder	Vision and direction
 💻 Developers	AI, automation, web, backend
@@ -60,18 +60,24 @@ Role	Description
 🛡️ Moderators	Community and structure
 Want to join the team?
 → Apply in our Discord recruitment channel
-🧬 Philosophy
+
+---
+
+## 🧬 Philosophy
 
     Science builds structure.
     Art gives it meaning.
     Curiosity connects them both.
 
 NEXA stands for Next Experimentation Architecture — a framework for creating technology that empowers, not replaces, human imagination.
-🌐 Links
 
-    🧠 Website: [link](https://nexa-lab.pages.dev/)
+---
 
-    💬 Discord: [Join NEXA](https://discord.gg/AQXVHsXmEe)
+## 🌐 Links
+
+🧠 Website: [link](https://nexa-lab.pages.dev/)
+
+💬 Discord: [Join NEXA](https://discord.gg/AQXVHsXmEe)
 
 ---
 
